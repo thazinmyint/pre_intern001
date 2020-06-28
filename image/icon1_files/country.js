@@ -1,0 +1,1 @@
+(function () { /*MM Myanmar (Burma) lang:Burmese*/	var country = {'code':'mm','id':126,'defaultLangauge':'en-us'};	if (!window.evidon) window.evidon = {};	if (window.evidon.notice) {window.evidon.notice.setLocation(country);}	window.evidon.location = country;})(); 
